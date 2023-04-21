@@ -23,9 +23,7 @@ class _CupertinoMainPageState extends State<CupertinoMainPage> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Center(
 
-            ),
           ],
         ),
       ),
