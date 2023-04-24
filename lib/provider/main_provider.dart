@@ -7,7 +7,6 @@ import '../model/pet.dart';
 
 
 class MainProvider with ChangeNotifier {
-  late String owner;
   late Pet _myPet;
 
   MainProvider() {
