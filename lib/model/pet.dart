@@ -5,5 +5,3 @@ class Pet {
 
   Pet(this.name, this.age, this.weight);
 }
-
-

@@ -23,7 +23,7 @@ class _CupertinoMainPageState extends State<CupertinoMainPage> {
       child: SafeArea(
         minimum: EdgeInsets.fromLTRB(15, 30, 15, 30),
         child: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
+          crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('Age'),
